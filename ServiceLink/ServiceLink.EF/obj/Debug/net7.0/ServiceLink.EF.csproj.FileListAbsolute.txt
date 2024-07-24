@@ -1,0 +1,17 @@
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/bin/Debug/net7.0/ServiceLink.EF.deps.json
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/bin/Debug/net7.0/ServiceLink.EF.runtimeconfig.json
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/bin/Debug/net7.0/ServiceLink.EF.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/bin/Debug/net7.0/ServiceLink.EF.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/bin/Debug/net7.0/ServiceLink.Core.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/bin/Debug/net7.0/ServiceLink.Core.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ServiceLink.EF.csproj.AssemblyReference.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ServiceLink.EF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ServiceLink.EF.AssemblyInfoInputs.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ServiceLink.EF.AssemblyInfo.cs
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ServiceLink.EF.csproj.CoreCompileInputs.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ServiceLink.EF.csproj.CopyComplete
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ServiceLink.EF.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/refint/ServiceLink.EF.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ServiceLink.EF.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ServiceLink.EF.genruntimeconfig.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.EF/obj/Debug/net7.0/ref/ServiceLink.EF.dll

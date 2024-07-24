@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y7bxXuo9wlvCHIHGfV4GR77ajreRjmxUjYNcszdWzo4=",
+  "Source": "ServiceLinkApi",
+  "BasePath": "_content/ServiceLinkApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

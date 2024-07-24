@@ -1,0 +1,12 @@
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/bin/Debug/net7.0/ServiceLink.Core.deps.json
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/bin/Debug/net7.0/ServiceLink.Core.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/bin/Debug/net7.0/ServiceLink.Core.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/obj/Debug/net7.0/ServiceLink.Core.csproj.AssemblyReference.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/obj/Debug/net7.0/ServiceLink.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/obj/Debug/net7.0/ServiceLink.Core.AssemblyInfoInputs.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/obj/Debug/net7.0/ServiceLink.Core.AssemblyInfo.cs
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/obj/Debug/net7.0/ServiceLink.Core.csproj.CoreCompileInputs.cache
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/obj/Debug/net7.0/ServiceLink.Core.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/obj/Debug/net7.0/refint/ServiceLink.Core.dll
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/obj/Debug/net7.0/ServiceLink.Core.pdb
+/Users/mohamedhafez.isobar.com/utalities/Asset/ServiceLink/ServiceLink.Core/obj/Debug/net7.0/ref/ServiceLink.Core.dll
